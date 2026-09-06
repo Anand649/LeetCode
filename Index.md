@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 - [Minimum Number of Arrows to Burst Balloons](./LeetCode/Medium/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) - *Medium*
 - [Gas Station](./LeetCode/Medium/Gas%20Station) - *Medium*
 - [Maximum Units on a Truck](./LeetCode/Easy/Maximum%20Units%20on%20a%20Truck) - *Easy*
