@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [ADDIS](./CodeChef/Unknown/ADDIS) - *Unknown*
 - [BTCMINE](./CodeChef/Unknown/BTCMINE) - *Unknown*
 - [UNQSHF](./CodeChef/Unknown/UNQSHF) - *Unknown*
 - [Jump Game III](./LeetCode/Medium/Jump%20Game%20III) - *Medium*
