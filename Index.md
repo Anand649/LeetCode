@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Jump Game](./LeetCode/Medium/Jump%20Game) - *Medium*
 - [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [Maximum Sum of Distinct Subarrays With Length K](./LeetCode/Medium/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K) - *Medium*
 - [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) - *Hard*
