@@ -9,7 +9,7 @@
 | **Tags** | Array, Dynamic Programming, Greedy |
 | **Link** | [View Problem](https://leetcode.com/problems/jump-game-ii/) |
 | **Runtime** | 0 ms |
-| **Memory** | 20.6 MB |
+| **Memory** | 20.5 MB |
 
 ## Problem Description
 
