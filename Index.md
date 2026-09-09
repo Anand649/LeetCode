@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [UNQSHF](./CodeChef/Unknown/UNQSHF) - *Unknown*
 - [Jump Game III](./LeetCode/Medium/Jump%20Game%20III) - *Medium*
 - [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) - *Medium*
 - [Jump Game](./LeetCode/Medium/Jump%20Game) - *Medium*
