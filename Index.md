@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [ADDIS](./CodeChef/Unknown/ADDIS) - *Unknown*
 - [BTCMINE](./CodeChef/Unknown/BTCMINE) - *Unknown*
 - [UNQSHF](./CodeChef/Unknown/UNQSHF) - *Unknown*
