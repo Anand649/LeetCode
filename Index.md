@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Q2. Count Values With Equally Spaced Occurrences II](./LeetCode/Medium/Q2%20Count%20Values%20With%20Equally%20Spaced%20Occurrences%20II) - *Medium*
 - [Q1. Count Values With Equally Spaced Occurrences I](./LeetCode/Easy/Q1%20Count%20Values%20With%20Equally%20Spaced%20Occurrences%20I) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [ADDIS](./CodeChef/Unknown/ADDIS) - *Unknown*
