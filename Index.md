@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Remove Duplicate Letters](./LeetCode/Medium/Remove%20Duplicate%20Letters) - *Medium*
 - [Candy](./LeetCode/Hard/Candy) - *Hard*
 - [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
 - [Q1. Cyclically Shift Rows and Columns](./LeetCode/Easy/Q1%20Cyclically%20Shift%20Rows%20and%20Columns) - *Easy*
