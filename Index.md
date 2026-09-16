@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Candy](./LeetCode/Hard/Candy) - *Hard*
 - [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
 - [Q1. Cyclically Shift Rows and Columns](./LeetCode/Easy/Q1%20Cyclically%20Shift%20Rows%20and%20Columns) - *Easy*
 - [Q3. Minimum Days to Score Exactly N Points](./LeetCode/Medium/Q3%20Minimum%20Days%20to%20Score%20Exactly%20N%20Points) - *Medium*
