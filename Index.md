@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 
 ## Uncategorized
+- [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) - *Hard*
 - [Partition Labels](./LeetCode/Medium/Partition%20Labels) - *Medium*
 - [Smallest Subsequence of Distinct Characters](./LeetCode/Medium/Smallest%20Subsequence%20of%20Distinct%20Characters) - *Medium*
 - [Remove Duplicate Letters](./LeetCode/Medium/Remove%20Duplicate%20Letters) - *Medium*
